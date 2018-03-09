@@ -44,3 +44,5 @@ BTW we like react, redux, Backbone, python
 
 * fork this repo
 * create a PR with the URL to test try it.
+
+#hola, desde aca empezare a trabajarle a este proyecto, no ahora, sino mañana en la tarde porque tengo parcial mañana
